@@ -1,0 +1,189 @@
+#LOCATIONS_START
+Barishal
+Chattogram
+Dhaka
+Khulna
+Mymensingh
+Rajshahi
+Rangpur
+Sylhet
+#LOCATIONS_END
+
+#HOSPITALS_START
+#HOSPITAL
+Location:Dhaka
+Name:Dhaka Central Hospital
+Rooms:102,201,202,G10,ICU-1,101
+Ambulances:Amb-DCH-01,Amb-DCH-02,Amb-DCH-03,Cardiac-1,NICU-1,General-1
+Doctors:Dr. Karim Ahmed - Cardiology,Dr. Salma Khatun - Medicine,Dr. Arif Hossain - Surgery,Dr. Farzana Yasmin - Pediatrics,Dr. Mahbub Alam - Orthopedics,Dr. Nazia Rahman - Gynecology
+Pharmacy:Napa:2.0:190,Antacid:1.5:300,Orsaline:15.0:100,Paracetamol:1.5:500,Cetirizine:2.5:150,Amoxicillin:8.0:120,Metformin:4.0:250,Omeprazole:5.0:180,Salbutamol Inhaler:150.0:48,Atorvastatin:10.0:130,Losartan:7.0:160,Azithromycin:25.0:90,Vitamin D Cap:6.0:220,Iron Tablet:3.0:350,Calcium Tablet:4.0:320,Cough Syrup:65.0:70,Eye Drops:55.0:60,Pain Balm:45.0:85,Bandage Roll:30.0:110,Cotton Wool Pack:40.0:95
+#END_HOSPITAL
+#HOSPITAL
+Location:Dhaka
+Name:Popular Diagnostic Center Hospital
+Rooms:301,302,303,Cabin-A,Cabin-B,CCU-1
+Ambulances:Amb-PDC-01,Amb-PDC-02,Cardiac-PDC-1,Cardiac-PDC-2,Neuro-1,ICU-Transport-1
+Doctors:Dr. Jahangir Khan - Neurology,Dr. Rokeya Begum - Medicine,Dr. Sharif Islam - Gastroenterology,Dr. Ayesha Siddika - Dermatology,Dr. Firoz Mahmud - ENT,Dr. Tasnim Ahmed - Radiology
+Pharmacy:Seclo:5.0:250,Fexo:3.0:180,Alatrol:2.0:200,Amodis:8.0:150,Glimipiride:6.0:120,Enalapril:4.5:140,Clopidogrel:12.0:100,Pantoprazole:6.0:170,Domperidone:3.5:190,Laxative Syrup:75.0:60,Multivitamin Tab:5.5:300,Ondansetron:9.0:80,Flucloxacillin:11.0:110,Ibuprofen:3.0:280,Miconazole Cream:50.0:75,Betnovate Cream:40.0:90,Antiseptic Liquid:80.0:55,Zinc Tablet:2.5:220,Folice Acid:1.0:400,Insulin Syringe:10.0:130
+#END_HOSPITAL
+#HOSPITAL
+Location:Dhaka
+Name:Square Hospitals Ltd.
+Rooms:SQ-501,SQ-502,SQ-601,VIP-1,VIP-2,HDU-1
+Ambulances:Amb-SQ-01,Amb-SQ-02,Amb-SQ-03,Cardiac-SQ-1,Cardiac-SQ-2,CriticalCare-1
+Doctors:Prof. M. A. Hassan - Cardiology,Dr. Rifat Sultana - Oncology,Dr. Kamrul Hasan - Urology,Dr. Sadia Afrin - Nephrology,Dr. Zafar Iqbal - Pulmonology
+Pharmacy:Ciprofloxacin:9.0:130,Metronidazole:2.5:260,Naproxen:7.0:145,Famotidine:4.0:180,Bisoprolol:5.5:155,Amlodipine:3.5:290,Simvastatin:8.5:125,Esomeprazole:7.5:165,Levocetirizine:3.0:210,Ambroxol Syrup:55.0:70,Vitamin C Chewable:1.5:450,Diazepam:4.0:90,Albendazole:6.0:110,Pain Killer Spray:120.0:45,Savlon Solution:60.0:80,Hand Sanitizer:90.0:100,Surgical Mask:5.0:500,ORS Apple:18.0:95,Baby Diaper:25.0:200,Adult Diaper:50.0:100
+#END_HOSPITAL
+#HOSPITAL
+Location:Chattogram
+Name:Chittagong Medical College Hospital
+Rooms:Ward-1,Ward-2,Cabin-101,Cabin-102,PostOp-1,Emergency-Bed-1
+Ambulances:Amb-CMCH-01,Amb-CMCH-02,BasicLifeSupport-1,BasicLifeSupport-2,Govt-Amb-1,Govt-Amb-2
+Doctors:Dr. Abdullah Al Mamun - Medicine,Dr. Fatima Rahman - Gynecology,Dr. Anwar Hossain - Orthopedics,Dr. Shahnaz Parvin - Pediatrics,Dr. Iqbal Sobhan - Surgery,Dr. Rezaul Karim - Psychiatry
+Pharmacy:Napa Extra:3.0:300,Tufnil:5.0:150,Indever:15.0:100,Monas:12.0:80,Sergel:7.0:180,Azithral:28.0:70,Cefixime:18.0:90,Linagliptin:20.0:60,Rivaroxaban:35.0:50,Aspirin:1.0:500,Ramipril:5.0:170,Hydrochlorothiazide:2.0:250,Fenofibrate:11.0:100,Artificial Tears:60.0:65,Nasal Spray:70.0:55,Movelt Cream:90.0:40,Burn Cream:75.0:50,ORS Lemon:16.0:85,Vitamin B Complex:4.0:280,Thermometer Digital:250.0:30
+#END_HOSPITAL
+#HOSPITAL
+Location:Chattogram
+Name:Imperial Hospital Limited
+Rooms:Imp-201,Imp-203,Imp-305,Deluxe-1,Deluxe-2,SemiPvt-1
+Ambulances:Amb-Imp-01,Amb-Imp-02,Cardiac-Imp-1,AdvLifeSupport-1,NICU-Imp-1,General-Imp-1
+Doctors:Dr. Mohiuddin Ahmed - Cardiology,Dr. Nazneen Akhter - Diabetology,Dr. Omar Faruq - Neurosurgery,Dr. Laila Arjumand - Rheumatology,Dr. Khaled Mahmud - Hepatology
+Pharmacy:Antacid Plus:2.0:250,Napa Syrup:35.0:90,Orsaline-N:6.0:150,Paracetamol Suppository:8.0:70,Desloratadine:4.0:140,Amoxiclav:15.0:100,Metformin SR:6.0:190,Rabeperazole:7.0:160,Domperidone Syrup:40.0:80,Salbutamol Syrup:38.0:85,Atorvastatin 20mg:14.0:110,Losartan 50mg:9.0:130,Cefuroxime:22.0:80,Pregabalin:10.0:100,Iron Syrup:80.0:60,Calbo-D:7.0:200,Ketorolac Inj:50.0:40,Povidone Iodine:45.0:90,Micropore Tape:35.0:120,Gauze Pad:8.0:250
+#END_HOSPITAL
+#HOSPITAL
+Location:Sylhet
+Name:Sylhet MAG Osmani Medical College Hospital
+Rooms:OMC-1A,OMC-1B,Cabin-Osmani-1,Cabin-Osmani-2,HDU-Osmani-1,Observation-1
+Ambulances:Amb-SOMC-01,Amb-SOMC-02,Govt-Amb-S-1,BasicLifeSupport-S-1,Cardiac-S-1,Casualty-Amb-1
+Doctors:Dr. Mujibur Rahman - Medicine,Dr. Shamsun Nahar - Gynecology & Obstetrics,Dr. Forhad Ahmed - Surgery,Dr. Kaniz Fatema - Pediatrics,Dr. Aminul Islam - ENT,Dr. Nasrin Begum - Ophthalmology
+Pharmacy:Paracetamol IV:80.0:30,Antacid Chewable:1.0:400,ORS Fruity:17.0:80,Cetirizine Syrup:30.0:90,Amoxicillin Syrup:45.0:75,Sitagliptin:18.0:85,Clopidogrel 75mg:8.0:140,Omeprazole Cap:4.0:220,Salbutamol Nebuliser Solution:10.0:100,Atorvastatin 10mg:7.0:160,Valsartan:12.0:110,Doxycycline:6.0:130,Vitamin D Sachet:50.0:70,Ferrous Sulfate Syrup:70.0:65,Calcium Sandoz:5.0:190,Tramadol Cap:9.0:120,Mupirocin Ointment:65.0:55,Gloves Surgical Pair:25.0:200,Adhesive Plaster:5.0:300,Crepe Bandage:60.0:75
+#END_HOSPITAL
+#HOSPITAL
+Location:Sylhet
+Name:Mount Adora Hospital
+Rooms:MAH-21,MAH-22,MAH-31,Deluxe-MAH-1,SemiPvt-MAH-1,NICU-Bed-1
+Ambulances:Amb-MAH-01,Amb-MAH-02,Cardiac-MAH-1,AdvancedLife-1,Pvt-Amb-1,Standby-1
+Doctors:Dr. Syed Rezaul Karim - Cardiology,Dr. Ruksana Chowdhury - Internal Medicine,Dr. Mustafizur Rahman - Orthopedic Surgery,Dr. Wahida Khanom - Nephrology,Dr. Anwarul Haque - Respiratory Medicine
+Pharmacy:Napa 500mg:1.5:600,Antacid Liq:55.0:70,Orsaline Saline:14.0:120,Paracetamol 650mg:2.0:450,Rupatadine:9.0:90,Flucloxacillin Cap:10.0:115,Vildagliptin:16.0:95,Esomeprazole 40mg:10.0:140,Ondansetron Inj:35.0:60,Budesonide Inhaler:250.0:35,Rosuvastatin:11.0:135,Olmesartan:10.0:125,Levofloxacin:14.0:105,Methylprednisolone Tab:8.0:85,Calciferol Cap:7.0:155,Diclofenac Gel:50.0:75,Clotrimazole Cream:40.0:80,Alcohol Swab:1.0:1000,Cotton Ball Small Pack:20.0:150,Elastic Bandage:70.0:60
+#END_HOSPITAL
+#HOSPITAL
+Location:Barishal
+Name:Sher-e-Bangla Medical College Hospital
+Rooms:Ward-B2,Cabin-SBMCH-1,Cabin-SBMCH-2,PostOp-SBMC-A,Observation-SBMC-1,Ward-A1
+Ambulances:Amb-SBMC-01,Amb-SBMC-02,Govt-Amb-B-1,Govt-Amb-B-2,Referral-Amb-1,GeneralDuty-1
+Doctors:Dr. Harun Or Rashid - Medicine,Dr. Selina Akhter - Gynae,Dr. Abul Kashem - Surgery,Dr. Nasima Sultana - Paediatrics,Dr. Kamal Uddin - Eye
+Pharmacy:Aceclofenac:5.0:190,Ranitidine:2.0:270,Saline Oral:13.0:110,Desloratadine Syrup:45.0:75,Cefixime Dry Syrup:60.0:70,Teneligliptin:14.0:100,Ecosprin AV:6.0:170,Pantoprazole Inj:45.0:50,Domperidone Tablet:2.5:280,Montelukast:10.0:110,Telmisartan:8.0:150,Azithromycin 250mg:15.0:95,Betamethasone Tablet:3.0:200,Vit D3 Sachet:40.0:80,Carbonyl Iron Cap:4.0:220,Calcium Chewable:3.0:240,Paracetamol Inj:25.0:70,Fusidic Acid Cream:70.0:50,Syringe 5ml:5.0:300,Bandage Small:15.0:160
+#END_HOSPITAL
+#HOSPITAL
+Location:Barishal
+Name:Bell View Hospital & Medical Services Ltd.
+Rooms:BV-11,BV-12,BV-21,Deluxe-BV-A,Private-BV-B,SemiPvt-BV-C
+Ambulances:Amb-BV-01,Amb-BV-02,Amb-BV-03,Cardiac-BV-1,Pvt-BV-A,Standby-BV-B
+Doctors:Dr. Golam Samdani - Cardiology,Dr. Anisur Rahman - Medicine,Dr. Maksuda Khanam - Gynaecology,Dr. Delwar Hossain - Orthopaedic,Dr. Humayun Kabir - Pediatrics
+Pharmacy:Napa Suppository:7.0:80,Antacid Syrup Mint:60.0:65,Orsaline-N Pkt:5.5:200,Loratadine:3.0:190,Co-amoxiclav Tab:18.0:85,Gliclazide:5.0:160,Losartan HCT:10.0:130,Rabeprazole 20mg:6.0:175,Promethazine Syrup:35.0:90,Fluticasone Inhaler:220.0:40,Atorva 10mg:8.0:155,Olmesartan H:13.0:105,Moxifloxacin:25.0:70,Dexamethasone Inj:15.0:60,Iron Polymaltose Chew:5.0:180,Cal D Tab:6.0:190,Ketorolac Tab:10.0:110,Neomycin Eye Oint:45.0:80,Gauze Roll Large:50.0:90,IV Cannula 22G:12.0:250
+#END_HOSPITAL
+#HOSPITAL
+Location:Khulna
+Name:Khulna Medical College Hospital
+Rooms:KMCH-W1,KMCH-W2,KMCH-Cab-1,KMCH-Cab-2,Surgery-Bed-1,Medicine-Bed-1
+Ambulances:Amb-KMCH-01,Amb-KMCH-02,Govt-Amb-K1,Govt-Amb-K2,Cardiac-KMCH,GeneralDuty-K
+Doctors:Prof. Dr. M A Samad - Medicine,Dr. Afroza Khanom - Gynae,Dr. Rezaul Islam - Surgery,Dr. Shirin Akhter - Child Health,Dr. Ruhul Amin - Orthopaedic
+Pharmacy:Maxpro:6.5:200,Histacin:2.0:300,Oral Rehydration Salt:5.0:250,Telfast:7.0:150,Cefpodoxime:25.0:80,Voglibose:9.0:120,Warfarin:8.0:70,Esomeprazole Cap:8.0:160,Metoclopramide Inj:12.0:90,Bambuterol Tab:11.0:100,Telmisartan AM:12.0:115,Sparfloxacin:18.0:85,Hydrocortisone Inj:30.0:60,Vit D3 Tab 2000IU:5.0:200,Folic Acid 5mg:1.5:350,Vitamin B12 Inj:50.0:45,Aceclofenac SR:7.0:170,Tobramycin Eye Drop:55.0:70,Scissor Surgical:150.0:20,Needle Disposable 23G:3.0:500
+#END_HOSPITAL
+#HOSPITAL
+Location:Khulna
+Name:Gazi Medical College Hospital
+Rooms:GMCH-10,GMCH-12,GMCH-23,Cabin-GMCH-A,Cabin-GMCH-B,ICU-GMCH-1
+Ambulances:Amb-GMC-01,Amb-GMC-02,Cardiac-GMC,LifeSupport-GMC,NICU-GMC,Pvt-GMC-1
+Doctors:Dr. Gazi Mizanur Rahman - Chairman Medicine,Dr. Shaila Zaman - Obs & Gynae,Dr. Ashoke Kumar Dutta - Cardiology,Dr. Biplob Kumar Das - Paediatrics,Dr. Mahfuzur Rahman - General Surgery
+Pharmacy:Fimoxyl:7.5:140,Seclo 20mg:4.5:240,Alatrol Syrup:32.0:85,Paracetamol 125 Susp:30.0:100,Montelukast Chew:8.0:130,Amoxiclav DS Syrup:70.0:60,Pioglitazone:7.0:145,Prasugrel:22.0:75,Dexlansoprazole:15.0:95,Domperidone Susp:40.0:80,Budesonide Respule:25.0:120,Amlodipine Besylate:3.0:290,Levocetirizine Syrup:38.0:85,Dexamethasone Tab:1.0:450,Calcitriol Cap:10.0:120,Ferrous Fumarate:2.0:260,Naproxen Sodium:8.0:155,Ofloxacin Eye Drop:50.0:75,Artery Forcep:180.0:15,Sterile Gloves:30.0:180
+#END_HOSPITAL
+#HOSPITAL
+Location:Mymensingh
+Name:Mymensingh Medical College Hospital
+Rooms:MMCH-W-A,MMCH-W-B,MMCH-Cab-X,MMCH-Cab-Y,Recovery-1,Ortho-Bed-1
+Ambulances:Amb-MMCH-1,Amb-MMCH-2,Govt-Amb-M1,Govt-Amb-M2,CriticalCare-MMCH,General-M
+Doctors:Dr. AKM Fazlul Haque - Medicine,Dr. Hurun Nahar - Gynaecology,Dr. Fazlul Karim - Surgery,Dr. Nazmun Nahar - Pediatrics,Dr. Nurul Islam - Eye,Dr. Saidur Rahman - ENT
+Pharmacy:Flexi:6.0:180,Ranitidine 150mg:1.5:350,Rice Saline:10.0:150,Fexofenadine 120mg:6.0:160,Cefaclor Cap:16.0:90,Metformin 850mg:5.0:210,Ticagrelor:28.0:65,Omeprazole Inj:35.0:55,Prochlorperazine:3.0:240,Theophylline SR:7.0:140,Irbesartan:14.0:100,Ceftriaxone Inj:90.0:40,Prednisolone 5mg:1.2:400,Vitamin ADEK Cap:12.0:110,Hematinic Cap:5.0:190,Calcium Lactate:2.0:310,Mefenamic Acid:4.0:200,Gentamicin Eye Drop:30.0:90,Blade Surgical:10.0:250,Disinfectant Wipes:50.0:70
+#END_HOSPITAL
+#HOSPITAL
+Location:Mymensingh
+Name:Community Based Medical College Hospital
+Rooms:CBMC-1,CBMC-2,Cabin-CBMC-A1,Cabin-CBMC-B2,ICU-CBMC,SemiPvt-CBMC
+Ambulances:Amb-CBMC-1,Amb-CBMC-2,Cardiac-CBMC,ALS-CBMC,Pvt-CBMC-1,Pvt-CBMC-2
+Doctors:Dr. M. Amanullah - Medicine,Dr. Rasheda Sultana - Gynae & Obs,Dr. Golam Mostafa - Orthopaedic,Dr. Abdul Alim - Child Specialist,Dr. Moniruzzaman Bhuiyan - General Surgery
+Pharmacy:Alprax:5.0:90,Losectil:6.0:210,Bilastine:12.0:100,Amoxicillin 250mg Cap:5.0:190,Saxagliptin:25.0:70,Enoxaparin Inj:350.0:20,Pantocid IV:40.0:50,Ondansetron Tab:8.0:130,Levosalbutamol Inhaler:180.0:45,Amlodipine 5mg:2.5:340,Roxithromycin:15.0:95,Methylprednisolone Inj:60.0:35,Cod Liver Oil Cap:4.0:220,Iron Chelated Tab:7.0:160,Neuro-B Cap:6.0:180,Diclofenac SR:4.0:230,Chloramphenicol Eye Oint:35.0:80,Sphygmomanometer Aneroid:1200.0:10,Cotton Roll:60.0:80
+#END_HOSPITAL
+#HOSPITAL
+Location:Rajshahi
+Name:Rajshahi Medical College Hospital
+Rooms:RMCH-WardX,RMCH-WardY,RMCH-Cabin-P,RMCH-Cabin-Q,Ortho-RMCH-1,BurnUnit-1
+Ambulances:Amb-RMCH-1,Amb-RMCH-2,Govt-Amb-R1,Govt-Amb-R2,Referral-RMCH,LifeSupport-RMCH
+Doctors:Dr. Khalilur Rahman - Medicine,Dr. Nurjahan Begum - Gynae & Obs,Dr. Shibli Nomani - Surgery,Dr. Elias Hossain - Paediatrics,Dr. Zulfiqar Ali - Cardiology
+Pharmacy:Xeldrin:7.0:150,Fimoxyl CV:16.0:90,Ebastine:9.0:120,Cefuroxime Axetil:20.0:80,Insulin Glargine:750.0:25,Fondaparinux Inj:400.0:18,Pantosec DSR:8.0:140,Itopride:7.0:160,Salmeterol Inhaler:240.0:38,Cilnidipine:6.0:180,Clarithromycin:22.0:75,Deflazacort Tab:10.0:100,Zinc Syrup:45.0:80,Cyanocobalamin Tab:3.0:250,Lysine Plus Syrup:80.0:60,Ibuprofen Syrup:40.0:85,Neomycin Cream:38.0:90,Nebulizer Machine:2500.0:8,Infusion Set:15.0:200
+#END_HOSPITAL
+#HOSPITAL
+Location:Rajshahi
+Name:Islami Bank Hospital Rajshahi
+Rooms:IBH-R-1,IBH-R-2,IBH-R-CabinA,IBH-R-CabinB,Private-IBH-1,General-IBH-1
+Ambulances:Amb-IBH-R-1,Amb-IBH-R-2,Cardiac-IBH-R,LifeSupport-IBH,Pvt-IBH-1,Standby-IBH
+Doctors:Dr. S R Khan - Medicine Specialist,Dr. Mahbuba Khatun - Gynae,Dr. Moslem Uddin Bhuiyan - Orthopedic,Dr. Syed Md. Abu Zafar - Pediatrics,Dr. Afzal Hossain - General Surgery
+Pharmacy:Pep:5.0:200,Antiva:1.5:310,Deslor:4.0:180,Moxiclav BD:20.0:80,Linagliptin Met:22.0:75,Dalteparin Inj:450.0:15,Rabeprazole Dom:7.0:150,Mosapride:6.0:170,Formoterol Inhaler:190.0:42,Metoprolol XL:5.0:190,Gatifloxacin:14.0:100,Triamcinolone Inj:70.0:30,Ascorbic Acid Tab:1.0:500,Haemoglobin Syrup:85.0:55,Multimineral Cap:7.0:160,Etodolac:12.0:90,Moxifloxacin Eye Drop:65.0:60,Pulse Oximeter:1500.0:12,First Aid Box:300.0:25
+#END_HOSPITAL
+#HOSPITAL
+Location:Rangpur
+Name:Rangpur Medical College Hospital
+Rooms:RpMC-W-G,RpMC-W-H,RpMC-Cab-U,RpMC-Cab-V,Surgery-RpMC-A,Gynae-RpMC-B
+Ambulances:Amb-RpMC-1,Amb-RpMC-2,Govt-Amb-Rp1,Govt-Amb-Rp2,Casualty-RpMC,Cardiac-RpMC
+Doctors:Dr. Mostafa Kamal - Medicine,Dr. Shirin Sultana - Gynae & Obs,Dr. AK Azad - Surgery,Dr. Nazrul Islam - Child Health,Dr. Golam Rabbani - Orthopaedic
+Pharmacy:Finix:6.0:190,Rolac:10.0:120,Ciprocin:8.0:150,Rupadin:10.0:110,Tigecycline Inj:1500.0:10,Alogliptin:28.0:60,Apixaban:40.0:50,Nexium Cap:8.0:170,Mebeverine:9.0:130,Tiotropium Inhaler:350.0:25,Nebivolol:7.0:160,Gemifloxacin:18.0:85,Hydrocortisone Cream:30.0:90,Calcium DVS Tab:5.0:200,Prenatal Vitamin:10.0:120,Cholecalciferol Oral Soln:60.0:70,Etoricoxib:14.0:95,Moxifloxacin Hcl Eye:70.0:58,Stethoscope:800.0:18,BP Machine Digital:2000.0:10
+#END_HOSPITAL
+#HOSPITAL
+Location:Rangpur
+Name:Prime Medical College Hospital
+Rooms:PMC-Rp-1,PMC-Rp-2,PMC-Cab-1,PMC-Cab-2,ICU-PMC-Rp,HDU-PMC-Rp
+Ambulances:Amb-PMC-Rp-1,Amb-PMC-Rp-2,LifeSupport-PMC,Cardiac-PMC-Rp,Pvt-PMC-Rp-1,Standby-PMC
+Doctors:Dr. Akram Hossain - Medicine,Dr. Mossammat Dil Afroze - Gynaecology,Dr. Nurunnabi Islam - Cardiology,Dr. Bidhan Ch Das - Pediatrics,Dr. Sarwar Jahan - General Surgery
+Pharmacy:AntacidSuspension:50.0:80,Clemastine:4.0:190,Ampicillin Cap:4.0:250,SitagliptinMetformin:20.0:80,Argatroban Inj:2000.0:5,EsomeprazoleNaInj:45.0:45,Cinitapride:11.0:110,Glycopyrrolate Inj:70.0:30,Montelukast Sachet:12.0:100,Carvedilol:6.0:170,Erythromycin Tab:7.0:160,Betamethasone Inj:20.0:70,Multivitamin Drops:65.0:65,Iron Sucrose Inj:300.0:22,Amino Acid Infusion:450.0:15,Indomethacin Cap:5.0:180,Sodium Cromoglycate Eye:40.0:80,Walker Adjustable:1800.0:9,Thermometer Mercury:80.0:40
+#END_HOSPITAL
+#HOSPITAL
+Location:Dhaka
+Name:Dhaka Medical College
+Rooms:101,102,103,104
+Ambulances:A1,B2
+Doctors:Dr. Ishan - Cardiology,Dr. Ankita - Medicine
+Pharmacy:Napa:5.0:10
+#END_HOSPITAL
+#HOSPITAL
+Location:Rangpur
+Name:Rangpur Doctors Clinic
+Rooms:101,102,301,402
+Ambulances:B5,M54
+Doctors:Dr. Shamsher Ali - Cardiology,Dr. Nusrat Jahan - Neurology,Dr. Tanvir Hasan - Orthopedics
+Pharmacy:Napa:10.0:100,Paracitamol:15.0:100
+#END_HOSPITAL
+#HOSPITALS_END
+
+#BOOKINGS_START
+#BOOKINGS_END
+
+#TRANSACTIONS_START
+#TRANSACTION
+HospitalName:Dhaka Central Hospital
+Location:Dhaka
+UserName:mahin
+UserPhone:01564165
+MedicineName:Napa
+Quantity:10
+TotalPrice:20.0
+#END_TRANSACTION
+#TRANSACTION
+HospitalName:Dhaka Central Hospital
+Location:Dhaka
+UserName:Mahin
+UserPhone:011111111
+MedicineName:Salbutamol Inhaler
+Quantity:2
+TotalPrice:300.0
+#END_TRANSACTION
+#TRANSACTIONS_END
