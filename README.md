@@ -1,6 +1,6 @@
 # Hospital Management System (Java Swing)
 
-![Java](https://img.shields.io/badge/Java-1.8%2B-blue?style=flat&logo=openjdk) ![UI](https://img.shields.io/badge/UI-Swing-orange)
+![Java](https://img.shields.io/badge/Java-1.8%2B-blue?style=flat&logo=openjdk) ![Platform](https://img.shields.io/badge/Platform-Desktop-lightgrey?style=flat-square) ![UI](https://img.shields.io/badge/UI-Swing-orange)
 
 A simple desktop application for managing basic hospital services, developed as a course project for CSE215L (Java Programming Lab) at North South University.
 
@@ -55,7 +55,7 @@ This application provides a graphical user interface (GUI) built with Java Swing
 ### Option 1: Running the JAR File (Recommended for Users)
 
 1.  Go to the [**Releases**](https://github.com/MahinAnowar/NSU-CSE215L-Hospital-Management/releases) page of this repository.
-2.  Download the latest `Hospital-Management-System.jar` file (or whatever you name it).
+2.  Download the latest `Hospital-Management-System.jar` file.
 3.  Place the downloaded `.jar` file in a dedicated folder on your computer.
 4.  **Important:** The application needs to read and write its data file (`hospital_data.txt`). This file will be automatically created **in the same directory where you run the `.jar` file from** if it doesn't exist.
 5.  Open a terminal or command prompt **in that same directory**.
